@@ -1,17 +1,25 @@
 const Roles = () => {
 
     const current = {
-        name: 'Freelance',
-        role: 'Independent Developer',
-        icon: '',
-        location: '',
-        startYear: '2024',
+        name: 'SFEEL DESINGER HOTEL',
+        role: 'Full-stack Engineer',
+        icon: 'https://erp.sfeelhotel.com/favicon.ico',
+        location: 'Chengdu, Sichuan Province, China',
+        startYear: '2025',
         endYear: 'Present',
-        website: ""
+        website: "https://erp.sfeelhotel.com/"
     };
 
     const roles = [
         {
+            name: 'Freelance',
+            role: 'Independent Developer',
+            icon: '',
+            location: '',
+            startYear: '2024',
+            endYear: '2025',
+            website: "",
+        }, {
             name: 'ly.com',
             role: 'Mid-level Backend Engineer',
             icon: '/icons/ly.ico',
