@@ -2,17 +2,17 @@ const SocialMedias = () => {
     const list = [
         {
             text: 'Github',
-            link: 'https://github.com/rryanchiu',
+            link: 'https://github.com/xlqiu',
             icon: 'ri-github-fill',
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }, {
             text: '',
-            link: 'https://www.linkedin.com/in/ryanchiu-dev/ ',
+            link: 'https://www.linkedin.com/in/xlqiu/ ',
             icon: 'ri-linkedin-box-fill',
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }, {
             text: '',
-            link: 'mailto:ryanchiu.dev@gmail.com',
+            link: 'mailto:xiaolg.qiu@gmail.com',
             icon: 'ri-mail-line',
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }
