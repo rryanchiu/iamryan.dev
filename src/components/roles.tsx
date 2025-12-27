@@ -36,14 +36,6 @@ const Roles = () => {
             endYear: '2021',
             website: "https://www.dmall.com/?language=zh"
         }, {
-            name: 'Zhihuiliu Education',
-            role: 'Java Developer',
-            icon: '/icons/zhihuiliu.ico',
-            location: 'Chengdu, Sichuan, China',
-            startYear: '2019',
-            endYear: '2019',
-            website: "https://www.zhihuiliu.com/"
-        }, {
             name: 'Sisyphe Bookstore',
             role: 'Java Developer',
             icon: '/icons/sisyphe.ico',
