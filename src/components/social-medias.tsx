@@ -2,7 +2,7 @@ const SocialMedias = () => {
     const list = [
         {
             text: 'Github',
-            link: 'https://github.com/xlqiu',
+            link: 'https://github.com/rryanchiu',
             icon: 'ri-github-fill',
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }, {
@@ -12,7 +12,7 @@ const SocialMedias = () => {
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }, {
             text: '',
-            link: 'mailto:xiaolg.qiu@gmail.com',
+            link: 'mailto:xiaolg.qiu@outlook.com',
             icon: 'ri-mail-line',
             class: 'hover:bg-dark-2 hover:color-gray-1'
         }
