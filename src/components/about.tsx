@@ -1,6 +1,6 @@
 const About = () => {
 
-    const about = "I'm a Full Stack Engineer who loves diving into new challenges. While I enjoy crafting code and exploring design, my latest obsession is Deep Learning. From building small, fun apps to experimenting with AI models, I’m always learning and playing with ideas that push the boundaries of what technology can do.";
+    const about = "I’m a full stack engineer focused on building practical software, with growing interests in AI and deep learning. I enjoy turning ideas into working products, whether that means writing backend services, designing interfaces, or experimenting with ML models.";
     return (
         <div className='xl:min-w-lg mt-5'>
             <div className="flex px-3 py-2 justify-between">
