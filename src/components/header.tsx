@@ -40,7 +40,7 @@ const Header = () => {
     }
 
     const getLikes = async () => {
-        const getLikeCountUrl = "https://api.iamryan.dev/api/domain/getLikeCount?domain=iamryan_dev"
+        const getLikeCountUrl = "https://api.imryan.dev/api/domain/getLikeCount?domain=iamryan_dev"
         try {
             const response = await fetch(getLikeCountUrl, {
                 method: 'GET',
@@ -62,7 +62,7 @@ const Header = () => {
     }
 
     const doLike = () => {
-        const getLikeCountUrl = "https://api.iamryan.dev/api/domain/like?domain=iamryan_dev"
+        const getLikeCountUrl = "https://api.imryan.dev/api/domain/like?domain=iamryan_dev"
         try {
             fetch(getLikeCountUrl, {
                 method: 'POST',

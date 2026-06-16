@@ -5,13 +5,13 @@ const Projects = () => {
         url: 'https://paperdesk.cn/',
     }, {
         name: 'Radiobear',
-        url: 'https://radiobear.iamryan.dev/',
+        url: 'https://radiobear.imryan.dev/',
     }, {
         name: 'Smart Dalton',
-        url: 'https://chatgpt.iamryan.dev/',
+        url: 'https://chatgpt.imryan.dev/',
     }, {
         name: 'TinyURL',
-        url: 'https://tinyurl.iamryan.dev/',
+        url: 'https://tinyurl.imryan.dev/',
     }]
 
     return (
