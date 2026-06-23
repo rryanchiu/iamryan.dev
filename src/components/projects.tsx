@@ -6,9 +6,9 @@ const Projects = () => {
     }, {
         name: 'Radiobear',
         url: 'https://radiobear.imryan.dev/',
-    }, {
-        name: 'Smart Dalton',
-        url: 'https://chatgpt.imryan.dev/',
+    // }, {
+    //     name: 'Smart Dalton',
+    //     url: 'https://chatgpt.imryan.dev/',
     }, {
         name: 'TinyURL',
         url: 'https://tinyurl.imryan.dev/',
