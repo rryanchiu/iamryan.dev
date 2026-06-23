@@ -1,6 +1,6 @@
 const About = () => {
 
-    const about = "I’m a full stack engineer focused on building practical software, with growing interests in AI and deep learning. I enjoy turning ideas into working products, whether that means writing backend services, designing interfaces, or experimenting with ML models.";
+    const about = "I’m a full-stack engineer with 10 years of experience building B2B systems across hospitality, travel, finance, education, and retail.Strong background in Java, Spring Boot, React, Vue, and database-driven business applications. Recently focused on AI-enabled internal tools, including AI agents, RAG knowledge retrieval, tool calling, and LLM-assisted development.";
     return (
         <div className='xl:min-w-lg mt-5'>
             <div className="flex px-3 py-2 justify-between">
