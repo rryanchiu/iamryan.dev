@@ -51,7 +51,9 @@ const Projects = () => {
                                 values="👋dotmote"
                                 dotRadius={2}
                                 motion="ticker-right"
-                                theme={isDark?"dark":{dotColor:"#efefef",activeDotColor:"#222"}}
+                                theme={isDark?
+                                    {dotColor:"#353639",activeDotColor:"#fff"}
+                                    :{dotColor:"#efefef",activeDotColor:"#222"}}
                                 spacingScale={0.6}
                                 fontSize={28}
                                 charGap={2}
